@@ -1,0 +1,22 @@
+{
+  "name": "utilsverse",
+  "version": "1.0.0",
+  "description": "Utility Functions",
+  "main": "utilsverse.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hardik-Aggarwal/Utilsverse.git"
+  },
+  "author": "Hardik Aggarwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hardik-Aggarwal/Utilsverse/issues"
+  },
+  "homepage": "https://github.com/Hardik-Aggarwal/Utilsverse#readme"
+}
