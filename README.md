@@ -24,6 +24,6 @@ debounce(()=>{
 ```
 
 ## Docs
-Visit here for documentation. [UtilsVerse-demo](https://github.com/Hardik-Aggarwal/utilsverse_demo)
+Visit here for documentation. [UtilsVerse-demo](https://github.com/Hardik-Aggarwal/utilsverse-demo)
 
 #### Leave a star behind if this repo helped you in any way. 😄
