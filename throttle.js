@@ -1,5 +1,5 @@
 /**
- * Used to debounce api calls.
+ * Used to throttle api calls.
  * Note - This function is tested on DOM.
  *
  * @since 1.0.0
