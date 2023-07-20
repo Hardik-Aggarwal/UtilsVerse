@@ -23,7 +23,6 @@ debounce(()=>{
 },1000);
 ```
 
-## Docs
-Visit here for documentation. [UtilsVerse-demo](https://github.com/Hardik-Aggarwal/utilsverse-demo)
+## Documentation
+Documentation. [UtilsVerse-demo](https://github.com/Hardik-Aggarwal/utilsverse-demo)
 
-#### Leave a star behind if this repo helped you in any way. 😄
