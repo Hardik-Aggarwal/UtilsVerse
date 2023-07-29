@@ -6,7 +6,7 @@
 ```js
 npm i utilsverse
 ```
-NPM package. [npm](https://www.npmjs.com/package/utilsverse)
+ [npm Package.](https://www.npmjs.com/package/utilsverse)
 
 
 
